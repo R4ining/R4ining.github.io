@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "笔记/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "笔记/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "笔记/index.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "笔记/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "笔记/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,8 +228,9 @@
   },
   "active": "b9ee163e219439f0",
   "lastOpenFiles": [
-    "README.md",
     "toc.md",
+    "README.md",
+    "index.md",
     "Untitled.canvas",
     "🔌 知识库插件列表.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/通过 Kubeadm 部署 Kubernetes 集群的时候的问题排查.md",
